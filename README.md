@@ -192,7 +192,7 @@ color: #15DDE9;
 ```
 ## OUTPUT:
 
-![alt text](out2.png)
+![Screenshot 2024-04-26 112322](https://github.com/BhumireddyLakshmivardhanreddy/Figma/assets/148514637/108c36c2-cdb0-444f-a67d-429c5247cf21)
 ![alt text](out3.png)
 ![alt text](out4.png)
 
